@@ -17,6 +17,12 @@ Scrapes text off pages found through google to answer 'who' queries
 A simple flask blog site that utilizes SQLite to keep track of blog posts, comments, and time stamps
 #### https://github.com/justinstrauss/Group2sqlite.git
 
+### API Project
+#### Alex Libman, Dennis Nenov
+#### Description
+Describes basic information about a specified stock, and links it to a variety of social media sources for comparison
+#### https://github.com/kingalex11235/API-project.git
+
 ## Mini Projects
 
  * First flask site
