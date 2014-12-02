@@ -34,3 +34,6 @@ Describes basic information about a specified stock, and links it to a variety o
  * MongoDB Login System
   * Alex Libman, David Dvorkin
   * 7/mongoproj/alex_davidD
+ * Javascript To Do List
+  * Alex Libman, Dennis Nenov
+  * 7/todo/alex-dennis
