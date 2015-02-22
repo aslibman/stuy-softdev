@@ -1,5 +1,16 @@
 Alex Libman
 ============
+# Spring Semester
+Period 5
+
+## Main Projects
+## Mini Projects
+ * HTML Canvas
+  * Alex Libman, David Bang
+  * 5/canvas/alex_davidBang
+ * SVG
+  * Alex Libman, David Bang
+  * 5/svg/alex_davidBang
 
 # Fall Semester
 Period 7
@@ -8,7 +19,7 @@ Period 7
 ### Assassin
 #### Alex Libman, Julian Kalogerakis, Kyler Chase, David Dvorkin, Victor Gaitour
 #### Description
-Assassin web app
+A web app that lets you play the game "Assassin" by uploading images of your target 
 #### https://github.com/kingalex11235/Assassin.git
 
 ### Tiger Search
